@@ -1,2 +1,1 @@
-# NodeJs-Structure
-NodeJs file Structure using mongoDB
+# NodeJs-structure
